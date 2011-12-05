@@ -1,0 +1,3 @@
+These lua files are pushed to cloudkick agents and are called by the built in checks. These function differently than custom plugins (https://support.cloudkick.com/Creating_a_plugin) -- We don't recommend attempting to use the lua files like custom plugins.
+
+
